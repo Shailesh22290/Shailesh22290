@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi, I'm Shailesh</h1>
-<h3 align="center"> full stack developer </h3>
+<h3 align="center"> Full stack developer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailesh22290&label=Profile%20views&color=0e75b6&style=flat" alt="shailesh22290" /> </p>
