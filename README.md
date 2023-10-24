@@ -12,7 +12,7 @@ I started coding in oct 2022 and now specialized in HTML, CSS, JavaScript, SQL, 
 - 💻 [Placement Cell IISER Bhopal's website](Placement_cell_IISERB.netlify.app)
 -  🌦️ Climate change analaysis project.
 
-  🌱 I’m currently learning <br>
+  🌱 I’m currently learning 
   - **DSA and Machine learning courses**
   - Android development
 
