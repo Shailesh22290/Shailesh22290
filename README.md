@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Climate change analysis project**
 
-- 📝 I regularly write articles on [shaileshkachhi.blogspot.com](shaileshkachhi.blogspot.com)
+- 📝 I regularly write articles on [shaileshkachhi.blogspot.com](https://shaileshkachhi.blogspot.com/)
 
 - 💬 Ask me about **JavaScript, C,CSS, HTML5**
 
