@@ -1,5 +1,5 @@
 ![MasterHead ](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
-<h1 align="left">Hi there!👋🏻 <br>I am Shailesh</h1>
+<h1 align="left">Hi there!👋🏻 <br>I am Shailesh Patel</h1>
 <h2 align="left"> Full stack developer🐧 </h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
  Currently I am an undergraduate at IISER Bhopal pursuing Data Science engineering.
