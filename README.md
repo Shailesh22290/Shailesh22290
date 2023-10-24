@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
  Currently I am an undergraduate at IISER Bhopal pursuing Data Science engineering.
 I started coding in oct 2022 and now specialized in HTML, CSS, JavaScript, SQL, and still learning.
-
 <br>
-
+<br>
+<br>
 🔭 I’m currently working on
-<br>
+
 - 💻 [Placement Cell IISER Bhopal's website](Placement_cell_IISERB.netlify.app)
 -  🌦️ Climate change analaysis project.
 
