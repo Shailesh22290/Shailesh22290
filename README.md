@@ -9,7 +9,7 @@ I started coding in oct 2022 and now specialized in HTML, CSS, JavaScript, SQL, 
 <br>
 🔭 I’m currently working on
 
-- 💻 [Placement Cell IISER Bhopal's website](Placement_cell_IISERB.netlify.app)
+- 💻 [Placement Cell IISER Bhopal's website](https://iiserbplacementcell.netlify.app/)
 -  🌦️ Climate change analaysis project.
 
   🌱 I’m currently learning 
