@@ -9,6 +9,7 @@ I started coding in oct 2022 and now specialized in HTML, CSS, JavaScript, SQL, 
 <br>
 🔭 I’m currently working on
 
+- 📁 Content management system using Drupal
 - 💻 [Placement Cell IISER Bhopal's website](https://iiserbplacementcell.netlify.app/)
 -  🌦️ Climate change analaysis project.
 
@@ -16,9 +17,9 @@ I started coding in oct 2022 and now specialized in HTML, CSS, JavaScript, SQL, 
   - **DSA and Machine learning courses**
   - Android development
 
- 📝 I regularly write articles on [shaileshkachhi.blogspot.com](https://shaileshkachhi.blogspot.com/)
+ 📝 I write articles on [shaileshkachhi.blogspot.com](https://shaileshkachhi.blogspot.com/)
 
- 💬 Ask me about **JavaScript, SQL,CSS, HTML5**
+ 💬 Ask me about **JavaScript, React.js, SQL,CSS, HTML5**
 
 📫 Contact me at **shailesh22@iiserb.ac.in**
 
