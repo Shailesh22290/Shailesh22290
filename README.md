@@ -14,7 +14,7 @@ I started coding in oct 2022 and now specialized in HTML, CSS, JavaScript, SQL, 
 -  🌦️ Climate change analaysis project.
 
   🌱 I’m currently learning 
-  - **DSA and Machine learning **
+  - DSA and Machine learning 
   - Web & Android development
 
  📝 I write articles on [shaileshkachhi.blogspot.com](https://shaileshkachhi.blogspot.com/)
