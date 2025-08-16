@@ -7,8 +7,7 @@
 💼 **Experience:** 2+ years in ML pipelines, full-stack development, and technical leadership
 
 <br>
-<br>
-<br>
+
 
 🔭 I'm currently working on
 
